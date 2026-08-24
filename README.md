@@ -1,4 +1,4 @@
-# Electrosynthesis
+# Electrosynthesis of Ibuprofen
 This repository contains the AVEVA simulation files and Python codes for the techno-economic analysis of electrochemical carboxylation for ibuprofen manufacturing. 
 
 ## Prerequisites
